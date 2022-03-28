@@ -9,7 +9,7 @@ The program will output the elements in sorted order and a visual representation
 
 EXAMPLE:
 
-./prettyPrint 
+./BSTPrint
 Enter the numbers to be stored: 12 4 5 10 15 45 8 6 2 
 
 The numbers in sorted order: 2 4 5 6 8 10 12 15 45 
